@@ -19,9 +19,9 @@ To run Question 4.23 on command line, type the following commands.
 
 ```
 gcc -o output2 4.22c
-output2.exe <input the list of numbers>
+output2.exe <input the number till which prime numbers are required>
 ```
 
 A sample test case with output:
 
-
+![Q2_cmd](https://user-images.githubusercontent.com/64416932/142037464-69930cbf-7a01-49c9-b508-5d918e5052f2.PNG)
